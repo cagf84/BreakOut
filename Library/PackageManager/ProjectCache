@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638585101235771065
-    m_Hash: 1655607629
+      ticks: 638585134136937137
+    m_Hash: 2947892228
   m_LockFileStatus:
     m_FilePath: C:/Users/ANDRES/OneDrive/Repositorio/GitHub/BreakOut/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638585101746176030
-    m_Hash: 3736942308
+      ticks: 638585134136947184
+    m_Hash: 2231402759
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
